@@ -10,7 +10,10 @@
   - http://es6-features.org/#Constants
 
 # Tópicos abordados no curso
-  - Introdução ao Angular
-  - Ambiente de Desenvolvimento (Node.JS, TypeScript, Angular CLI)
-  - Hello, World! Criando primeiro projeto e o primeiro Componente
-  - Introdução ao TypeScript para Angular
+  - #01 Introdução ao Angular
+  - #02 Ambiente de Desenvolvimento (Node.JS, TypeScript, Angular CLI)
+  - #03 Hello, World! Criando primeiro projeto e o primeiro Componente
+  - #04 Introdução ao TypeScript para Angular
+  - #05 Módulos (ngModule)
+  - #06: Introdução aos Templates
+  - #07: Introdução aos Serviços e Injeção de Dependência (DI)
