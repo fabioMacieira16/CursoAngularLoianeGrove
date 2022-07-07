@@ -1,3 +1,20 @@
-<p>data-binding works!</p>
+<section>
+    <article>
+        <h2>interpolaco/ interpolaco</h2>
+        <p>String renderizada com interpolçao: {{ url }}</p>
+        <p>resulta de 1 + 1 é = {{ 1 + 1 }} </p>
+        <p>resulta de 1 + 1 don't é = {{ 1 + 1 + getvalor() }} </p>
+        <p>curso de angular e gosto de curso: {{ cursoAngular && getCurtirCurso() }} </p>
+    </article>
 
-<app-data-binding></app-data-binding>
+    <article>
+        <h3>Property Binding</h3>
+        <!-- interpolaco -->
+        <img src="{{ urlImageOne }}" /> 
+
+        <!-- Property Binding 
+            - é o valor do component para o template
+        -->
+         <img [src]="urlImage" /> 
+    </article>
+</section>

@@ -6,6 +6,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DataBindingComponent implements OnInit {
 
+  url = 'http://loiane.com';
+  cursoAngular: boolean = true;
+  urlImageOne = 'http://lorempixel.com.br/500/400/?1';
+  urlImage = 'http://lorempixel.com.br/500/400/?2';
+
+
+  getvalor() {
+    return 1;
+  }
+
+  getCurtirCurso(){
+    return true;
+  }
+
   constructor() { }
 
   ngOnInit(): void {
