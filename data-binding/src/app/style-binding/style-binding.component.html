@@ -1,0 +1,20 @@
+<p>style-binding works!</p>
+<article>
+    <h3>Class e Style Binding</h3>
+    <div>
+        select one Class
+        <select #classe (change)="0">
+            <option value="alert-success">Sucesso</option>
+            <option value="alert-info">Infon</option>
+            <option value="alert-worning">Alert</option>
+            <option value="alert">erro</option>
+        </select>
+        <br/><br/>
+
+        <div class="alert" role="alert" [id.alert-success]="classe.value == 'alert-success">Sucesso</div>
+        <div class="alert" role="alert">Infon</div>
+        <div class="alert" role="alert">Alert</div>
+        <div class="alert" role="alert">erro</div>
+
+    </div>
+</article>

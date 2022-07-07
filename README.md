@@ -19,3 +19,4 @@
   - #07: Introdução aos Serviços e Injeção de Dependência (DI)
   - #08: Dicas plugins Angular para Atom e VS Code
   - #09: Property Binding e Interpolação
+  - #10: Class e Style binding
