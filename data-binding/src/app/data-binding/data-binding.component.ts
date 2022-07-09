@@ -11,6 +11,7 @@ export class DataBindingComponent implements OnInit {
   urlImageOne = 'http://lorempixel.com.br/500/400/?1';
   urlImage = 'http://lorempixel.com.br/500/400/?2';
 
+  nomeDoCurso: string = 'Angular';
 
   getvalor() {
     return 1;

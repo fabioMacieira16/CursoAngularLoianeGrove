@@ -22,3 +22,4 @@
   - #10: Class e Style binding
   - #11: Event binding
   - #12: Two-way data binding
+  - #13: Reusando Componentes com Input properties
