@@ -11,7 +11,14 @@ export class AppComponent {
 
   valor: number = 5;
 
+  deletarCiclo: boolean = false;
+
   MudarValor() {
     this.valor ++;
+  }
+
+
+  destruirCiclor() {
+    this.deletarCiclo = true;
   }
 }
