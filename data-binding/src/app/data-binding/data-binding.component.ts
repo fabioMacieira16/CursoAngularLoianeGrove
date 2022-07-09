@@ -12,13 +12,18 @@ export class DataBindingComponent implements OnInit {
   urlImage = 'http://lorempixel.com.br/500/400/?2';
 
   nomeDoCurso: string = 'Angular';
-
+  valorInicial = 15;
+ 
   getvalor() {
     return 1;
   }
 
   getCurtirCurso(){
     return true;
+  }
+
+  onMudouValor(evento: any) {
+    console.log(evento.novoValor);
   }
 
   constructor() { }

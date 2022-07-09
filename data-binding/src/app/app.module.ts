@@ -10,6 +10,7 @@ import { EventBindingComponent } from './event-binding/event-binding.component';
 import { TwuWayDataBindingComponent } from './twu-way-data-binding/twu-way-data-binding.component';
 import { MyFormModule } from './my-form/my-form.module';
 import { InputPropertyComponent } from './input-property/input-property.component';
+import { OutputPropertyComponent } from './output-property/output-property.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { InputPropertyComponent } from './input-property/input-property.componen
     EventBindingComponent,
     TwuWayDataBindingComponent,
     InputPropertyComponent,
+    OutputPropertyComponent,
   ],
   imports: [
     BrowserModule,
