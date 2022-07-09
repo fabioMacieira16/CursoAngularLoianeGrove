@@ -21,3 +21,4 @@
   - #09: Property Binding e Interpolação
   - #10: Class e Style binding
   - #11: Event binding
+  - #12: Two-way data binding
