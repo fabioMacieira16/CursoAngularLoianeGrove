@@ -37,3 +37,4 @@
     - ng serve (disponibiliza o projeto no browser)
   - #18: Angular CLI: Criando components, services: ng generate
   - #19: Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
+  - #20: Angular CLI: ng lint, ng test, ng e2e
