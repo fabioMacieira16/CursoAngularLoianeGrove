@@ -31,3 +31,4 @@
       - ngAfterContentInit: depois de inserir conteúdo externi ba view
       - ngAfterViewChecked: verifica o conteudo do component filho
       - ngOnDistroy: antes da diretiva ser destruida
+  - #16: Acesso ao DOM e ao Template com ViewChild
