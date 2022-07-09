@@ -11,6 +11,7 @@ import { TwuWayDataBindingComponent } from './twu-way-data-binding/twu-way-data-
 import { MyFormModule } from './my-form/my-form.module';
 import { InputPropertyComponent } from './input-property/input-property.component';
 import { OutputPropertyComponent } from './output-property/output-property.component';
+import { CicloComponent } from './ciclo/ciclo.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { OutputPropertyComponent } from './output-property/output-property.compo
     TwuWayDataBindingComponent,
     InputPropertyComponent,
     OutputPropertyComponent,
+    CicloComponent,
   ],
   imports: [
     BrowserModule,

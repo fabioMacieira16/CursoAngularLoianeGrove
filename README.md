@@ -24,3 +24,10 @@
   - #12: Two-way data binding
   - #13: Reusando Componentes com Input properties
   - #14: Emitindo Eventos com Output properties
+  - #15: Ciclo de vida do Componente
+      - ngOnChages: quando o valor é atualiado
+      - ngOnInit: quando o component é inicializado
+      - ngDoCheck: a cada ciclo de verifição de mudança
+      - ngAfterContentInit: depois de inserir conteúdo externi ba view
+      - ngAfterViewChecked: verifica o conteudo do component filho
+      - ngOnDistroy: antes da diretiva ser destruida
