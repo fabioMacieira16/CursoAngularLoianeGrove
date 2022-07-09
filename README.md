@@ -35,3 +35,4 @@
   - #17: Angular CLI: Instalação e criação de projetos: ng new e ng serve
     - ng new nome-do-projet0(cria um novo projeto)
     - ng serve (disponibiliza o projeto no browser)
+  - #18: Angular CLI: Criando components, services: ng generate
