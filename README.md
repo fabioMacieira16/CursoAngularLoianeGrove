@@ -32,3 +32,6 @@
       - ngAfterViewChecked: verifica o conteudo do component filho
       - ngOnDistroy: antes da diretiva ser destruida
   - #16: Acesso ao DOM e ao Template com ViewChild
+  - #17: Angular CLI: Instalação e criação de projetos: ng new e ng serve
+    - ng new nome-do-projet0(cria um novo projeto)
+    - ng serve (disponibiliza o projeto no browser)
