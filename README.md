@@ -46,3 +46,5 @@
       npm install bootstrap@4.1.3 jquery@3.3.1 popper.js@1.14.3 --save
   - #24: Introdução e tipos de diretivas no Angular 
   - #25: Diretivas: ngIf
+  - #26: Diretivas: ngSwitch, ngSwitchCase e ngSwitchDefault
+  - #27: Diretivas: ngFor
