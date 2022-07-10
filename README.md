@@ -45,3 +45,4 @@
   - #23: Angular CLI: instalando bibliotecas (Assistam aula #118 no lugar desta aula)
       npm install bootstrap@4.1.3 jquery@3.3.1 popper.js@1.14.3 --save
   - #24: Introdução e tipos de diretivas no Angular 
+  - #25: Diretivas: ngIf
