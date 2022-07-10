@@ -48,3 +48,5 @@
   - #25: Diretivas: ngIf
   - #26: Diretivas: ngSwitch, ngSwitchCase e ngSwitchDefault
   - #27: Diretivas: ngFor
+  - #28: Diretivas: sobre o * e template
+  - #29: Diretivas: ngClass
