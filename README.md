@@ -38,3 +38,10 @@
   - #18: Angular CLI: Criando components, services: ng generate
   - #19: Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
   - #20: Angular CLI: ng lint, ng test, ng e2e
+  - #21: Angular CLI: Estrutura do projeto
+  - #22: Angular CLI: Gerando build de produção
+    - ng build --dev
+    - ng build --prod
+  - #23: Angular CLI: instalando bibliotecas (Assistam aula #118 no lugar desta aula)
+      npm install bootstrap@4.1.3 jquery@3.3.1 popper.js@1.14.3 --save
+  - #24: Introdução e tipos de diretivas no Angular 
