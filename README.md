@@ -50,3 +50,4 @@
   - #27: Diretivas: ngFor
   - #28: Diretivas: sobre o * e template
   - #29: Diretivas: ngClass
+  - #30: Diretivas: ngStyle

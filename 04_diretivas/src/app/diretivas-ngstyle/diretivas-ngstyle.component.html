@@ -1,0 +1,14 @@
+<h5>Syles com property binding (syle binding)</h5>
+
+<button 
+    [style.backgroundColor]="ativo ? 'blue' : 'gray'"
+    [style.color]="ativo ? 'write' : 'black'"
+    [style.fontWeight]="ativo ? 'bold' : 'normal'"
+    [style.fontSize]="tamanhoFonte + 'px'"
+    (click)="mudarAtivo()"
+>
+Mudar atributo 'ativo'    
+</button>
+<br />
+
+<input type="text" [(ngModel)]="tamanhoFonte" placeholder="foo" />
