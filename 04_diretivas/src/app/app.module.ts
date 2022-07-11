@@ -9,6 +9,7 @@ import { DiretivaSwitichComponent } from './diretiva-switich/diretiva-switich.co
 import { DiretivaNgforComponent } from './diretiva-ngfor/diretiva-ngfor.component';
 import { DiretivasNgclassComponent } from './diretivas-ngclass/diretivas-ngclass.component';
 import { DiretivasNgstyleComponent } from './diretivas-ngstyle/diretivas-ngstyle.component';
+import { OperadorElvisComponent } from './operador-elvis/operador-elvis.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { DiretivasNgstyleComponent } from './diretivas-ngstyle/diretivas-ngstyle
     DiretivaSwitichComponent,
     DiretivaNgforComponent,
     DiretivasNgclassComponent,
-    DiretivasNgstyleComponent
+    DiretivasNgstyleComponent,
+    OperadorElvisComponent
   ],
   imports: [
     BrowserModule,
