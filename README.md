@@ -52,3 +52,4 @@
   - #29: Diretivas: ngClass
   - #30: Diretivas: ngStyle
   - #31: Operador Elvis ("?")
+  - #32: ng-content
