@@ -53,3 +53,5 @@
   - #30: Diretivas: ngStyle
   - #31: Operador Elvis ("?")
   - #32: ng-content
+  - #33: Criando uma diretiva de atributo
+  - #34: Diretivas: HostListener e HostBinding

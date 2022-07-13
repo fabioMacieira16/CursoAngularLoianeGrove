@@ -6,10 +6,7 @@ import { Directive, ElementRef, Renderer2 } from '@angular/core';
 export class FundoAmareloDirective {
 
   constructor(private elementRef: ElementRef,
-    private rendere: Renderer2) {
-
-    //Forma nao recomendada pelo angular
-    // this.elementRef.nativeElement.style.backgroundColor = 'yellow';
+              private rendere: Renderer2) {
 
     //Forma recomendada pelo angular usando rendere2
     this.rendere.setStyle(
